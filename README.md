@@ -1,7 +1,8 @@
 <h1 align="center">안녕하세요 👋, 저는 서준하의 깃허브에 오신 걸 환영합니다.</h1>
 <h3 align="center">풀스택 개발자</h3>
 
-- 🔭 초 개인화 마케팅을 쉽고 효율적으로 만드는 도구 [CRM MARKETING SYSTEM 을 개발중 입니다.](https://github.com/SeoJunHa5748/-CRM-)
+- 🔭 초 개인화 마케팅을 쉽고 효율적으로 만드는 도구 [CRM MARKETING SYSTEM  개발중 입니다.](https://github.com/SeoJunHa5748/-CRM-)
+- 🔭 전사적 자원관리 시스템 [ERP PROJECT 진행중 입니다.](https://github.com/SeoJunHa5748/-CRM-)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,6 +1,13 @@
 <h1 align="center">안녕하세요 👋, 저는 서준하의 깃허브에 오신 걸 환영합니다.</h1>
 <h3 align="center">풀스택 개발자</h3>
 
+- 🔭 초 개인화 마케팅을 쉽고 효율적으로 만드는 도구 [CRM MARKETING SYSTEM 을 개발중 입니다.](https://github.com/SeoJunHa5748/-CRM-)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seojunha5748&label=Profile%20views&color=0e75b6&style=flat" alt="seojunha5748" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seojunha5748" alt="seojunha5748" /></a> </p>
